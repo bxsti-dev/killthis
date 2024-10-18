@@ -10,5 +10,5 @@ Terminal CLI tool to easily search processes and kill them.
 
 <h2>Installation:</h2>
 <p>Best way: Add the exe directory to your system Environment Variable to access it from everywhere.</p>
-<p>2. way: Run the python file (need python module psutil,termcolor,colorama)</p>
+<p>2. way: Run the python file from terminal (need python module psutil,termcolor,colorama)</p>
 <p>3. way: Run "killthis [...]" command in the directory of the exe</p>
